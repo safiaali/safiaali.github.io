@@ -1,6 +1,9 @@
-h1{
+h1.uppercase{
   text-transform:uppercase;
 }
-h3{
+h3.shiny{
   text-transform: uppercase;
+}
+h3.rainbow{
+  text-transform:uppercase;
 }
