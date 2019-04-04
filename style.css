@@ -14,3 +14,16 @@ h3.award{
 text-transform:uppercase;
 color:red;
 }
+h3.edu{
+  text-transform:uppercase;
+  color:red;
+}
+p.pharma{
+  text-transform:capitalize;
+}
+p.tree{
+  text-transform:capitalize;
+}
+p.sk{
+  text-transform:capitalize;
+}
