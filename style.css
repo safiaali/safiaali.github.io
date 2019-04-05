@@ -1,6 +1,16 @@
 h1.uppercase{
   text-transform:uppercase;
   color:red;
+  text-align:center;
+}
+h4.head1{
+  text-align:center;
+}
+h4.head2{
+  text-align;center;
+}
+h4.head3{
+  text-align;center;
 }
 h3.shiny{
   text-transform: uppercase;
